@@ -1,0 +1,8 @@
+[submodule "TheOneFrontForge"]
+	path = TheOneFrontForge
+	url = git@github.com:VerySadPanda/TheOneFrontForge.git
+	branch = master
+[submodule "TheOneBackForge"]
+	path = TheOneBackForge
+	url = git@github.com:VerySadPanda/TheOneBackForge.git
+	branch = master
